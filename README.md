@@ -1,2 +1,0 @@
-# aulaGit
-comandos do git
